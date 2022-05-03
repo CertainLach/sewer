@@ -1,0 +1,10 @@
+[package]
+name = "sewer-replacement"
+description = "Regex replacement syntax"
+license = "MIT"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+peg = "0.8.0"
+thiserror = "1.0.31"
